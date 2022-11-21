@@ -1,0 +1,506 @@
+*{
+  padding: 0px;
+  margin: 0px;
+text-decoration: none;
+}
+body{
+  background: #F5F5F5;
+}
+.rectangle-6{
+  height: 752px;
+  max-width: 1920px;
+  border-radius: 0px;
+  background: linear-gradient(0deg, rgba(6, 48, 83, 0.6), rgba(6, 48, 83, 0.6)), url(..//Images/Alriz.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-left: -12px;
+  margin-right: -12.45px;
+  position: relative;
+}
+.logo{
+  color: white;
+  background: white;
+}
+.navbar-link a{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.text
+{ padding-top: 35%;
+}
+.text h1{
+  padding-top: 50px;
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 52px;
+  line-height: 72px;
+  color: #ffffff;
+}
+.text p{
+  margin-left:15%;
+  font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+text-align: center;
+max-width: 696px;
+color: #EDEFF6;
+padding-top: 25px;
+}
+.advence{
+  height: 160px;
+ max-width: 1118px;
+ position: absolute;
+ top: 140%;
+ right: 20px;
+ margin-right: 50px;
+ margin-left: 70px;   
+ /* padding-left: 60px; */
+}
+.advence-search{
+  /* position: relative; */
+  /* height: 110px; */
+  /* max-width: 1238px; */
+  background: white;
+  /* box-shadow: 0px 2px 2px 3px black; */
+}
+.properties-area{
+  height: 752px;
+  max-width: 1920px;
+}
+.image1{
+  background: url("..//Images/Rectangle\ 10.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.image2{
+  background: url("..//Images/Rectangle\ 11.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.image3{
+  background: url("..//Images/Rectangle\ 12.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.image4{
+  background: url("..//Images/Alriz.jpeg");
+  background-repeat: no-repeat;
+}
+  .rectangle-6{
+    height: 752px;
+    max-width: 1920px;
+    border-radius: 0px;
+    background: linear-gradient(0deg, rgba(6, 48, 83, 0.6), rgba(6, 48, 83, 0.6)), url(..//Images/Alriz.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: -12px;
+    margin-right: -12.45px;
+    position: relative;
+  }
+  .logo{
+    color: white;
+    background: white;
+  }
+  .navbar-link a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  .text
+  { padding-top: 35%;
+  }
+  .text h1{
+    padding-top: 50px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 72px;
+    color: #ffffff;
+  }
+  .text p{
+    margin-left:15%;
+    font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  max-width: 696px;
+  color: #EDEFF6;
+  padding-top: 25px;
+  }
+  .advence{
+    height: 160px;
+   max-width: 1118px;
+   position: absolute;
+   top: 140%;
+   right: 20px;
+   margin-right: 50px;
+   margin-left: 70px;   
+   /* padding-left: 60px; */
+  }
+  .advence-search{
+    /* position: relative; */
+    /* height: 110px; */
+    /* max-width: 1238px; */
+    background: white;
+    box-shadow: 0px 2px 2px 3px gray;
+    border-radius: 5px;
+  }
+  .properties-area{
+    height: 752px;
+    max-width: 1920px;
+  }
+  .image1{
+    background: linear-gradient(180deg, rgba(59, 77, 129, 0.8) -12.86%, rgba(59, 77, 129, 0) 106.85%), url("..//Images/Rectangle\ 10.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .image1 h1{
+    color: white;
+  }
+  .image1 p{
+    color: white;
+  }
+  .image2{
+    background: linear-gradient(180deg, rgba(59, 77, 129, 0.8) 12.86%, rgba(59, 77, 129, 0) 106.85%),
+    url("..//Images/Rectangle\ 11.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .image2 h1{
+    color: white;
+  }
+  .image2 p{
+    color: white;
+  }
+  .image3{
+    background: linear-gradient(180deg, rgba(59, 77, 129, 0.8) 12.86%, rgba(59, 77, 129, 0) 106.85%), url("..//Images/Rectangle\ 12.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .image3 h1{
+    color: white;
+  }
+  .image3 p{
+    color: white;
+  }
+  .image4{
+    background: linear-gradient(180deg, rgba(59, 77, 129, 0.8) -12.86%, rgba(59, 77, 129, 0) 106.85%), url("..//Images/Alriz.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .image4 h1{
+    color: white;
+  }
+  .image4 p{
+    color: white;
+  }
+  .image4 a{
+    border: 1px solid white;
+    padding: 10px 18px;
+    color: white;
+    margin-left: 10em;
+    margin-right: 10em;
+    text-decoration: none;
+  }
+  /* .image4:hover{
+    background: transparent linear-gradient(rgba(0,0,0,0.22),rgba(0,0,0,0.1))
+  } */
+  .image5{
+    background: linear-gradient( rgba(59, 77, 129, 0.8) 12.86%, rgba(59, 77, 129, 0) 106.85%), url("..//Images/Rectangle\ 13@2x.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  } 
+  .image5 h1{
+    color: white;
+  }
+  .image5 p{
+    color: white;
+  }
+  /* .image5:hover{
+    background: linear-gradient( rgba(240, 7, 7, 0.8) 12.86%, rgba(240, 7,  0) 106.85%),transparent url("..//Images/Rectangle\ 13@2x.png");
+  } */
+  .properties-home{
+    max-Width:1920px;
+    height: 695px;
+    background: #EDEFF6;
+    margin-right: -10px;
+    margin-left: -10px;
+    text-overflow: hidden;
+  }
+  .properties-home h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+color: #1E2640;
+text-align: center;
+  }
+  .properties-home p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+color: #889099;
+  }
+.image-head{
+  max-width:290px;
+  height: 240px;
+}
+#load-more{
+  background: blue;
+  padding: 9px 32px;
+  color: white;
+  margin-left: 25em;
+  margin-top: 2em;
+}
+/* .col-5{
+  background : green;
+  width: 200px;
+  height: 300px;
+} */
+/* .maine{
+  max-width: 1444px;
+  height: auto;
+} */
+.maine-head{
+   text-align: center;
+   margin-bottom: 30px;
+}
+.maine-head h1{
+  margin-bottom: 30px;
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+color: #1E2640;
+}
+.maine-head p{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+color: #889099;
+}
+.maine{
+  margin-top: 8em;
+  text-align: center;
+  padding-bottom: 40px;
+}
+#first{
+  background:  url("..//Images/Rectangle\ 10.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 7px;
+  height: 312px;
+  width: 312px;
+  margin-left: 5px;
+}
+#first h2{
+  width: 89px;
+  height: 32px;
+  background:  #4A60A1;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Inter';
+  text-align: center;
+  padding-top: 5px;
+  margin-top: 10px;
+}
+#first span i{
+   padding-top: 5.80em;
+}
+#first span{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: white;
+}
+#first p{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: white;
+padding: 10px 30px;
+border: 1px solid #EDEFF6; 
+text-align: center;
+border-radius: 4px;
+margin-top: 80px; 
+}
+#second{
+  background: url("..//Images/Rectangle\ 11.png");
+  background-size: cover;
+ background-position: center;
+  border-radius: 8px;
+  width: 350px;
+  height: 312px;
+  margin-left: 10px;
+}
+#second span i{
+  padding-top: 17em;
+}
+#second span{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: white;
+}
+#third{
+ background: url("..//Images/Alriz.jpeg");
+ background-size: cover;
+ background-position: center;
+ border-radius: 8px;
+  width: 424px;
+  height: 312px;
+  margin-left: 10px;
+}
+#third h2{
+  width: 89px;
+  height: 32px;
+  background:  #4A60A1;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Inter';
+  text-align: center;
+  padding-top: 5px;
+  margin-top: 10px;
+}
+#third span{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: white;
+}
+#third span i{
+  padding-top: 14em;
+}
+#forth{
+  background: url("..//Images/Rectangle\ 13@2x.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+   width: 424px;
+   height: 312px;
+   margin-left: 10px;
+}
+#forth span{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: white;
+}
+#forth span i{
+  padding-top: 17em;
+}
+#fifth{
+  background: url("..//Images/Rectangle\ 10.png");
+  background-size: cover;
+  background-position: center;  
+  border-radius: 8px;
+  width: 350px;
+  height: 312px;
+  margin-left: 10px;
+}
+#fifth span{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+}
+#fifth span i{
+  padding-top: 17em;
+}
+#left :hover{
+   background: blue;
+}
+#left button{
+  margin-right: 10px;
+  width: 44px;
+height: 44px;
+background: #4A60A1;
+border-radius: 4px;
+  border: 0px;
+  color: white;
+}
+#right button{
+  margin-right: 10px;
+  width: 44px;
+height: 44px;
+background: #4A60A1;
+border-radius: 4px;
+  border: 0px;
+  color: white;
+}
+.footer{
+  height: 508px;
+  max-width: 1920px;
+  text-align: center;
+  background: url("..//Images/Rectangle\ 24.png");
+  background-size: cover;
+  background-position: center;
+  margin-left: -14px;
+  margin-right: -10px;
+}
+.footer h1{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+color: white;
+padding-top: 4em;
+padding-bottom: 10px;
+}
+.footer p{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+color: white;
+padding-bottom: 40px;
+}
+.footer a{
+ padding: 12px 24px;
+border: 1px solid #FFFFFF;
+border-radius: 4px;
+color: white;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+text-decoration: none;
+}
